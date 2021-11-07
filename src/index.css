@@ -1,0 +1,84 @@
+li{
+  list-style: none;
+  display: inline;
+}
+
+button{
+  padding: 10px;
+}
+
+#sign{
+  background: rgba(5, 5, 233, 0.568);
+  border: none;
+  border-radius: 5%;
+}
+
+.one{
+  margin: 50px 100px;
+}
+
+.one li, .two li, .five li, .six li{
+  padding: 10px;
+  color: rgb(95, 88, 88);
+}
+
+.two{
+  margin: -70px 0px 0px 900px;
+}
+
+.three{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.four{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  
+}
+
+input {
+  width: 40vw;
+  border-radius: 20px;
+  border: 1px solid grey;
+  padding: 10px 30px;
+  font-size: 16px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+#gS{
+  margin: 0px 450px 0px 300px;
+  background: grey;
+  border: none;
+  border-radius: 5%;
+}
+
+#feeling{
+  margin: -38px 400px 0px 530px;
+  background: grey;
+  border: none;
+  border-radius: 5%;
+}
+
+.last-div{
+  border: 1px solid grey;
+  background-color: rgb(202, 195, 195);
+  margin: 100px 200px;
+  width: 70%;
+}
+
+
+.five{
+  margin: 5px 0px 0px 0px;
+}
+
+.six{
+  margin: -15px 100px 5px 700px;
+}
